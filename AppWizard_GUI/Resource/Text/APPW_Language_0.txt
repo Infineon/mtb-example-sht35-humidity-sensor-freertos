@@ -1,0 +1,5 @@
+﻿SHT35: Humidity & Temperature
+00.00
+ (%RH)
+00.00
+(°C)
